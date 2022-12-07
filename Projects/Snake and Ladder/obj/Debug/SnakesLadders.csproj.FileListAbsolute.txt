@@ -1,0 +1,11 @@
+E:\VSCode_projects\SnakesLadders\bin\Debug\SnakesLadders.exe.config
+E:\VSCode_projects\SnakesLadders\bin\Debug\SnakesLadders.exe
+E:\VSCode_projects\SnakesLadders\bin\Debug\SnakesLadders.pdb
+E:\VSCode_projects\SnakesLadders\obj\Debug\SnakesLadders.csproj.AssemblyReference.cache
+E:\VSCode_projects\SnakesLadders\obj\Debug\SnakesLadders.csproj.SuggestedBindingRedirects.cache
+E:\VSCode_projects\SnakesLadders\obj\Debug\SnakesLadders.Form1.resources
+E:\VSCode_projects\SnakesLadders\obj\Debug\SnakesLadders.Properties.Resources.resources
+E:\VSCode_projects\SnakesLadders\obj\Debug\SnakesLadders.csproj.GenerateResource.cache
+E:\VSCode_projects\SnakesLadders\obj\Debug\SnakesLadders.csproj.CoreCompileInputs.cache
+E:\VSCode_projects\SnakesLadders\obj\Debug\SnakesLadders.exe
+E:\VSCode_projects\SnakesLadders\obj\Debug\SnakesLadders.pdb
